@@ -1,0 +1,2 @@
+# verilestbot
+discord bot verilestbot
