@@ -7,4 +7,4 @@ urlbored = 'http://www.boredapi.com/api/activity/'
 
 city_list = ('New York', 'Los Angeles', 'Chicago', 'Houston', 'Philadelphia', 'Moscow', 'Bryansk', 'Reutov', 'Balashiha', 'Sevastopol', 'Anapa')
 
-TOKEN = "MTA1ODA5Njg0MzA1OTM2Mzk2MQ.GhYr2j.-XbBpL7snCPhq-4GqvJsYo4_fESB9heCA93n_o"
+TOKEN = "YOUR TOKEN FILE"
